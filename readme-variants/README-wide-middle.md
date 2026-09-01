@@ -17,7 +17,7 @@
 <br />
 
 <!-- ЗАМЕНИ URL ниже на ссылку на свою anime-картинку или GIF. -->
-  <img src="https://placehold.co/1400x360/0b1020/7dd3fc?text=YOUR+ANIME+BANNER+HERE" width="96%" alt="Место для широкой аниме-картинки или GIF" />
+  <img src="./trump-zelensky.gif" width="96%" alt="Место для широкой аниме-картинки или GIF" />
 
 <br />
 
