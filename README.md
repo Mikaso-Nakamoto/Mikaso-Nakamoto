@@ -6,4 +6,4 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,vscode,visualstudio&perline=1", align="left" />
 </div>
 
-<p align="center", margin="dowm" >🚀 Ya krutoy specialist!</p>
+<p align="center", margin="bottom" >🚀 Ya krutoy specialist!</p>
