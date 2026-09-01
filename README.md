@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3>🛠 Мой стек</h3>
+  <h3 margin-left="10px">🛠 </h3>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,vscode,visualstudio" />
 </div>
 
