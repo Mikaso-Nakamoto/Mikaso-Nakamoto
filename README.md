@@ -3,7 +3,7 @@
 
 <div align="center">
   <h3>🛠 Мой стек</h3>
-  <p>🚀 Ya krutoy specialist!</p>
+
   
   <br />
   
@@ -12,3 +12,6 @@
   <br /><br />
   <img src="https://skillicons.dev/icons?i=js,git,github,vscode,visualstudio" height="40" />
 </div>
+
+
+  <p>🚀 Ya krutoy specialist!</p>
