@@ -4,11 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:312e81,100:06b6d4&height=210&section=header&text=MIKASO%20NAKAMOTO&fontSize=46&fontColor=f8fafc&fontAlignY=38&desc=code%20%2F%20curiosity%20%2F%20late-night%20ideas&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Mikaso Nakamoto banner" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/Mikaso-Nakamoto"><img src="https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/STATUS-learning%20in%20public-06b6d4?style=for-the-badge&labelColor=0b1020" alt="Status: learning in public" />
-  <img src="https://komarev.com/ghpvc/?username=Mikaso-Nakamoto&style=for-the-badge&color=312e81&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
+  <img src="https://placehold.co/1400x360/0b1020/7dd3fc?text=YOUR+ANIME+BANNER+HERE" width="96%" alt="Место для широкой аниме-картинки или GIF" />
 
 <br />
 
