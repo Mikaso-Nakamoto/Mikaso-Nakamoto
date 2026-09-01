@@ -1,9 +1,9 @@
 # Mikaso-Nakamoto
 
 
-
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mikaso-Nakamoto&show_icons=true&theme=onedark&hide_border=true" alt="Stats" />
+  <h3>🛠 Мой стек</h3>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,vscode,visualstudio" />
 </div>
 
 <p align="center">🚀 Ya krutoy specialist!</p>
