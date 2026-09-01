@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:312e81,100:06b6d4&height=210&section=header&text=MIKASO%20NAKAMOTO&fontSize=46&fontColor=f8fafc&fontAlignY=38&desc=code%20%2F%20curiosity%20%2F%20late-night%20ideas&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Mikaso Nakamoto banner" />
 </div>
 
-  <img src="https://placehold.co/1400x360/0b1020/7dd3fc?text=YOUR+ANIME+BANNER+HERE" width="96%" alt="Место для широкой аниме-картинки или GIF" />
+
 
 <br />
 
@@ -17,9 +17,7 @@
 <br />
 
 <!-- ЗАМЕНИ URL ниже на ссылку на свою anime-картинку или GIF. -->
-<div align="center">
-<div class="tenor-gif-embed" data-postid="8258560116110162092" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/trump-zelensky-donald-trump-volodymyr-zelenskyy-sitting-gif-8258560116110162092">Trump Zelensky GIF</a>from <a href="https://tenor.com/search/trump-gifs">Trump GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+  <img src="https://placehold.co/1400x360/0b1020/7dd3fc?text=YOUR+ANIME+BANNER+HERE" width="96%" alt="Место для широкой аниме-картинки или GIF" />
 
 <br />
 
