@@ -22,7 +22,7 @@
 <table width="96%">
   <tr>
     <td width="34%" align="center"><img src="https://placehold.co/560x300/0b1020/67e8f9?text=PART+01" width="100%" alt="Часть 1 аниме-композиции" /></td>
-    <td width="33%" align="center"><img src="https://placehold.co/560x300/111827/a78bfa?text=PART+02" width="100%" alt="Часть 2 аниме-композиции" /></td>
+    <td width="33%" align="center"><img src="./readme-variants/image.png" width="100%" alt="Часть 2 аниме-композиции" /></td>
     <td width="33%" align="center"><img src="https://placehold.co/560x300/0b1020/67e8f9?text=PART+03" width="100%" alt="Часть 3 аниме-композиции" /></td>
   </tr>
 </table>
