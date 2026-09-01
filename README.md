@@ -2,8 +2,8 @@
 
 # <p align="center">My GitHub Profile</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mikaso-Nakamoto&theme=onedark&no-frame=true&no-bg=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mikaso-Nakamoto&show_icons=true&theme=onedark&hide_border=true" />
+</div>
 
 <p align="center">🚀 Ya krutoy specialist!</p>
