@@ -1,25 +1,5 @@
-<div align="center">
-  <h2>⚡ Mikaso-Nakamoto // Dev Space ⚡</h2>
-  <p><i>"Ya krutoy specialist!"</i> 🚀</p>
-</div>
+# Mikaso-Nakamoto
 
-<table width="100%">
-<tr>
-<td width="75%" valign="top">
-
-<div align="center">
-  <img src="https://media.giphy.com/media/O4EChdejyKcBQckTyL/giphy.gif" width="100%" />
-</div>
-
-```bash
-┌──(mikaso㉿dev-box)-[~]
-└─$ whoami
-> 15 y.o. developer | Learning & breaking code
-
-┌──(mikaso㉿dev-box)-[~/focus]
-└─$ cat current_focus.json
-{
-  "desktop": "C# & Avalonia UI",
-  "quality": "Manual QA & Bug Hunting",
-  "frontend": "HTML5 / CSS3 / JS basics"
-}
+<div align="center">   
+  <h2 align="center"> Greetings to everyone who has visited this profile!</h2> 
+  <h3 align="left">  I am a student from Russia, and I am studying/have some experience working with the following:</h3>   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,vscode,visualstudio&perline=1", align="right" /> </div>
