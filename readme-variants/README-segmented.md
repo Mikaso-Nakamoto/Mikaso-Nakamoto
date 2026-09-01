@@ -23,7 +23,7 @@
   <tr>
     <td width="34%" align="center"><img src="./nthhb.gif" width="100%" alt="Часть 1 аниме-композиции" /></td>
     <td width="33%" align="center"><img src="./image.png" width="100%" alt="Часть 2 аниме-композиции" /></td>
-    <td width="33%" align="center"><img src="./davis.gif" width="100%" alt="Часть 3 аниме-композиции" /></td>
+    <td width="33%" align="center"><img src="./devis.gif" width="100%" alt="Часть 3 аниме-композиции" /></td>
   </tr>
 </table>
 
