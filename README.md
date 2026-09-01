@@ -11,7 +11,8 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css&perline=4" height="40" />
   <br /><br />
   <img src="https://skillicons.dev/icons?i=js,git,github,vscode,visualstudio" height="40" />
+    <p>🚀 Ya krutoy specialist!</p>
 </div>
 
 
-  <p>🚀 Ya krutoy specialist!</p>
+
