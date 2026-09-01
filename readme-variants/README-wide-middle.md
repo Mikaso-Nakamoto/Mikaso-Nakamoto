@@ -22,7 +22,7 @@
 
 <!-- ЗАМЕНИ URL ниже на ссылку на свою anime-картинку или GIF. -->
 <div align="center">
-  <img src="https://placehold.co/1400x360/0b1020/7dd3fc?text=YOUR+ANIME+BANNER+HERE" width="96%" alt="Место для широкой аниме-картинки или GIF" />
+<div class="tenor-gif-embed" data-postid="8258560116110162092" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/trump-zelensky-donald-trump-volodymyr-zelenskyy-sitting-gif-8258560116110162092">Trump Zelensky GIF</a>from <a href="https://tenor.com/search/trump-gifs">Trump GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <br />
